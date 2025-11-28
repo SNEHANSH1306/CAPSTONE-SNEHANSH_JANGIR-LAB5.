@@ -42,11 +42,3 @@ A single-page responsive landing page for a travel agency, built with only HTML5
 ## Notes / Customization
 - Replace placeholder images in `/images` with optimized photos (unsplash is a good source).
 - The sticky-nav technique uses two header bars: a transparent one overlaying the hero and a solid sticky header placed after the hero — no JavaScript required for the visual effect.
-- A very small JS snippet sets the year in the footer — remove it if you want zero-JS.
-
----
-
-**Good luck with submission.** If you want, I can:
-- Replace placeholder images with Unsplash links (I can give direct image suggestions).
-- Export the project as a zip you can download.
-- Add screenshots (desktop & mobile) for the repo.
